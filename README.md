@@ -1,2 +1,2 @@
-# Revisiones
-Es un corto de Proyectos
+# Certificados
+Estos son los certificados actualmente adquiridos
